@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310415740076",
+    "project_id": "guestsmanagement-8948d",
+    "storage_bucket": "guestsmanagement-8948d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310415740076:android:9997d9077c7b6e9b67a309",
+        "android_client_info": {
+          "package_name": "com.example.guests"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6_I9E8Mmad_boSF5ZpOM5OxpRBrC7rU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
